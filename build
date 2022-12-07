@@ -1,0 +1,6 @@
+#!/usr/bin/sh
+$using typeof_t >>> echo $Preview()
+shift; shift;
+if [$t ++ sh{}]; then
+  endAsCakefile
+fi
