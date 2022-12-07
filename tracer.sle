@@ -1,0 +1,7 @@
+import "stale.util.main"
+(main=class _go):
+  if this.uri != .changed[
+    create traceData{arr}, {arrConnector}
+  elseif this.uri == changed[
+    create node_tracer_.var() => createFruit.__as_is()
+(main=class _end)
