@@ -1,0 +1,22 @@
+{
+  "data-source": "./bin/env/stle",
+  "title": "Stale",
+  "language": "stale",
+  "files": "*.sle, *.ste, *.stp, *.stml, *.slb, *.stb, *.stlang, *.stale",
+  "config": [
+    {
+      "figure": "TokeScript",
+      "version": "1.5.6a",
+      "is-updated": true,
+      "object-oriented": false,
+      "uses-connecter": true
+    },
+    
+    {
+      "figure": "TokeSharp",
+      "version": "1.1.4a",
+      "is-updated": true,
+      "object"
+    }
+  ],
+}
