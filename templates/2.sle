@@ -1,0 +1,17 @@
+#-- This is a template file
+-- indexed by sudo-loafly
+--#
+import "stale.util.main"
+(main=func __nutshell):
+  let shell = cli.Cookie
+  let nut = shell.SQLData
+  for nut in shell[
+    *.SQLData.view(render{typeof(RegExp)})
+  render_wrap[]:
+    {
+      "cookies": "JavaScript-SQL_Data-Value",
+      "cookies.baseConnecter": "create_valueByCli",
+      "cookies.browser": "create __render_wrap",
+    }
+  render_end[]:
+(main=func __nutshell::end)
