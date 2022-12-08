@@ -1,0 +1,5 @@
+!fn():{
+  this.atc-lk.class :: std:typeof string[]_int_arr() ==> 'ATC',
+  this.atl-bh.class :: std:typeof void[]_int_arr() ==> 'CONNECT_JAVA_VOICE_INITIATE';
+  this.atb-bool.class :: std::closeln void[int_typeof_('close_lines')].java;
+}
