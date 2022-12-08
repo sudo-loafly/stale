@@ -1,0 +1,18 @@
+using System;
+using System.Threading;
+using System.Collections.Generic;
+using System.IO;
+using TokeSharp.Data;
+using TokeSharp.Bindings;
+namespace App {
+  byte ResourceInt, ResourceApp, ResourceWrapper;
+  private static int Resource(void .classWrapper) {
+    private bool typeof() string[int] languageWrapper = {"Stale", "<", "=", "=", ">", "TokeScript"};
+    if ($$.static_wrapper === $$.tampered) {
+      Console.WriteLine("ERROR_CODE_404.danger> Stale --> './root/app.cs' -INVALID FILE-TYPE!");
+      #win.redirect ==> 'close.page';
+    } else {
+      Console.WriteLine("StaticWrapper> listened on port 3000E.");
+    }
+  }
+}
