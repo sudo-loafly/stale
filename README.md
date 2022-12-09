@@ -1,18 +1,27 @@
 # The _Stale_ Programming Language
-Stale is a half/scripting and full machine code programming language. It's creation was inspired by languages like: Java, Haskell, & C++
+Stale is a half/scripting and full machine code programming language. It's creation was inspired by languages like: Java, Haskell, & C++.
 
 **Created using:**
-1. Java
-2. C/C++
-3. C#
-4. TokeScript,
-5. TypeScript
-6. JavaScript
-7. F#
-8. Rust
-9. Bash
-10. Python
-11. Ruby
-12. Haskell
-
-# Tutorials
+- Java
+- C/C++
+- C#
+- TokeScript
+- TypeScript
+- JavaScript
+- F#
+- Rust
+- Bash
+- Python
+- Ruby
+- Haskell
+## Learning the `Stale` Programming Language
+In order to use Stale, in a professional example. We first need to know the basics!
+```js
+(?main=go _class +++ ? === typeof(int::StorageByte)):
+  class main_ln_string(){
+    var _func discover_data()[
+      this.testCookie.test()
+      this.testCookie.status()
+      this.testCookie.end()
+    discover_data()
+```
