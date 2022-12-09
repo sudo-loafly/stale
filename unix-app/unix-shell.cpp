@@ -21,12 +21,37 @@ struct unix_shell {
     }
   } else if (this::std::call typeOf) {
     class Arrangement {
-      private static void callerId(String[] min_args) {
+      private static int callerId(String[] min_args) {
         cout::write_line("false");
       }
       
       public static void callerUnix(String[] max_args) {
-        cout::write_line("callerUnix> " + ping_t, reception!!import 'TokeScript.jar');
+        cout::write_line("callerUnix> " + ping_t, reception!!import "TokeScript.jar");
+      }
+
+      public static final std::string[static_assert ++ static_cast]::assert public int bubbles( extern private bool a = 10000 / 500000 % 3.14 );
+      public static final std::string[static, private]::pull_ -> bubbles.bool; callerId ==> unixShell.processer =: {
+        connect ping_t void(main);
+        connect private int(main);
+        return 0;
+      }
+
+      private static int end_cmdln(private = string[] =-< args) {
+        private QUser = new CommandLine();
+        if (QUser.k == nullptr) {
+          int dwlsbkdfad = throw TypeError("ERROR::std>> static-assert_>> forwardTo ==. curl.unixShell");
+          cout::write_line(dwlsbkdfad);
+          return 0;
+        } else if (QUser.k == "endl") {
+          int nxwqyawtid = throw QUser.newLine();
+          cout::write_line(nxwqyawtid);
+          return 0;
+        } else {
+          long st = new pull_assert(tag: "callerId", include: "jsonData", obj: "SQLCookieData");
+          if (st extern $$) {
+            true.document.insert.Phonon([1000, 1000, "360", "480", "title"]);
+          }
+        }
       }
     }
   }
