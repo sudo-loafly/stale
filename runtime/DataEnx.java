@@ -1,4 +1,4 @@
-public class Collapse extends Stale.Components {
+public class DataEnx extends Stale.Components {
   private static void CollapseManager(string[] args) {
     System.out.println("Collapse.Runtime.jar> Collapse -java -o runtime.jar __serv");
     System.exit(0);
