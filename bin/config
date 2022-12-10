@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+$--pullrq .server --> sh( pull.push[$cli] )
+
+$typeof[$cli_revealHTTP_HOST]
+shift; kill .$rt
+if [die or sh[o]]; then
+  shift, ln[];
+  newLine(putStrLn)
