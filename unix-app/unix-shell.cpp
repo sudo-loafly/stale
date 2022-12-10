@@ -50,6 +50,8 @@ struct unix_shell {
           long st = new pull_assert(tag: "callerId", include: "jsonData", obj: "SQLCookieData");
           if (st extern $$) {
             true.document.insert.Phonon([1000, 1000, "360", "480", "title"]);
+          } else if ($$.active !== this.activeSolution()) {
+            true.createSoltion.SQLDATA(.!!JSDATA);
           }
         }
       }
