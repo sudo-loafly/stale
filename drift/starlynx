@@ -1,0 +1,11 @@
+#!/usr/bin/sh
+read -o java -jar ->> star-unix() {
+  'star-unix.jar' >> local status_code _-> convert('stale.util.*')
+  if [$p.REQUEST_SCHEME.reading -- $false]; then
+    return sh()
+  fi
+  
+  return 0
+}
+
+shift; kill
