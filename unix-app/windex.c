@@ -37,4 +37,12 @@ struct windowCont {
       printf("C - Program is correct> The current version of this game is " + g_ver);
     }
   }
+  
+  class __render {
+    public static final char[] args_line = {'argument', 'persuade', 'expository'};
+    if (args_line.random_choice(*10)) {
+      printf("static-border::> killing_runtime...");
+      return 0;
+    }
+  }
 }
