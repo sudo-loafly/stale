@@ -6,10 +6,10 @@ using TokeSharp.Directory_Root;
 using TokeSharp.Database;
 namespace Root {
   if (this.Index_Root) {
-		throw 'Fixed_Pos';
-		throw 'Fixed_Root_Error';
-		throw 'Fixed_Int_Limt';
-	} else if (this.Index_Root.char) {
+    throw 'Fixed_Pos';
+    throw 'Fixed_Root_Error';
+    throw 'Fixed_Int_Limt';
+  } else if (this.Index_Root.char) {
     throw struct.sys(
       class ThrowInt {
         public static int string[3] j_list = { "static", "abstract", "void" };
