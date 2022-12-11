@@ -24,4 +24,5 @@ In order to use Stale, in a professional example. We first need to know the basi
       this.testCookie.status()
       this.testCookie.end()
     discover_data()
+    let type = this.dataType !++ this.webUI
 ```
