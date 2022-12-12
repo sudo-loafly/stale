@@ -46,4 +46,12 @@ namespace Root {
       }
     }
   }
+  
+  class bootProgram {
+    private static override bool staticInt(String[] args) {
+      Console.WriteLine("Sharpening Edges...");
+      Console.WriteLine("\nBoolType::> override_var");
+      return false;
+    }
+  }
 }
