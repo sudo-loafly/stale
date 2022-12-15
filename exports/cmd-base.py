@@ -9,7 +9,14 @@ def lmx_aww_conversion(a, err, v):
     lmx.Window.screen_title_txt("Pugh64.py>> Opening PYTHON_RUNTIME_DIRECTORY")
     lmx.Window.screen_delay(3)
     lmx.Window.screen_change => 'DIRECT.EXE'
-  else:
+  elif syntax_definition == 'Syntax::Change':
     lmx.Window.crash(syntax_definition)
     lmx.Window.screen_delay(3)
     lmx.Window.screen_change => 'DIRECT.EXE'
+  if type_definition != 'TypeError':
+    lmx.Window.screen_change(stnScreen)
+    lmx.Window.send_crashReport('true')
+    lmx.Window.previewChanges(true)
+    lmx.Window.previewDatabase(false)
+    lmx.Window.previewCommandLineInterface(true)
+    return False
