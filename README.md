@@ -14,6 +14,10 @@ Stale is a half/scripting and full machine code programming language. It's creat
 - Python
 - Ruby
 - Haskell
+- SQL
+- Clojure
+- Odin
+- Gem
 ## Learning the `Stale` Programming Language
 In order to use Stale, in a professional example. We first need to know the basics!
 ```js
