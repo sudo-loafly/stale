@@ -26,4 +26,29 @@ int stringifyMain(c_void) {
   this.stringify === #include **definition**;
   this.stringify === #include **loose_math**;
   using namespace void bool[];
+  using namespace void int[];
+  using namespace void char[];
+  using namespace void byte[];
+}
+
+int stringifySecondary(void) {
+  using typename std;
+  if (this.struct -= void || this.struct += NULL) {
+    std::cout << 'println("smfTimeLine");' << endl;
+  } else {
+    struct STRINGIFY_KILL -> bool(char, long, short, int) {
+      char bool, int short;
+      java.stringify('System.out.print_file("main.string.jst");');
+    }
+    
+    struct STRINGIFY_DOUBLE -> char(long, short, int, bool) {
+      char int, bool long;
+      java.stringify('System.out.print_file("main.bool.jst");');
+    }
+    
+    struct STRINGIFY -> long {
+      bool char, int double;
+      java.stringify('System.out.print_fileMarkings(""main.double.jst);');
+    }
+  }
 }
