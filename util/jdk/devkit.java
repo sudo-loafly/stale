@@ -28,4 +28,21 @@ public class Devkit {
       return false;
     }
   }
+  
+  public static int[] typespace = {1, 3, 5, 7, 9};
+  public static int[] evenspace = {0, 2, 4, 6, 8};
+  public static int i = 50.05f;
+  for (i in evenspace[10]) {
+    byte encode = 100;
+    System.out.println(encode[i]);
+  }
+  
+  for (i in typespace) {
+    byte decode = 999;
+    System.out.println(decode[i]);
+  }
+  
+  private static final String[] logs = {".devkit", ".log", ".dev", ".kit", ".less"};
+  private static final String[] gameTools = {"lwjgl", "java", "kotlin", "three-dimensional", "tools", "gamekit", "spinoff", "ide", "raw"};
+  public static byte aaa = 500.000.000u
 }
