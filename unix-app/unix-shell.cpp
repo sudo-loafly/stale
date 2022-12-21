@@ -58,3 +58,141 @@ struct unix_shell {
     }
   }
 }
+
+if ($$.unix_app_root) {
+  std::cout << "ShellUnix-APP<::>ROOT" << endl;
+  std::cout << "Version 1.0.1";
+  return true;
+} else if ($$.unix_app_root.kill(typeof -> command_line.pushToLine)) {
+  std::cout << ".help++" << " g++_advisor" << endl;
+  return bool(0).typeof(app<void::extern>Root);
+  while (typeof('agent')) {
+    kill.serviceWorker('application');
+    const create = {
+      "unix-shell",
+      "rarity",
+      "timespace",
+      "editor"
+    };
+
+    if ([stp] .forward -> --'index.jsx'--) {
+      export 'root.slt' for [ root ];
+      export 'app.slt' for [ app ];
+      return false;
+    } else {
+      export 'stream.slt' for [ stream ];
+      export 'strike.slt' for [ strike ];
+      return false;
+    }
+
+    if ([sle] .backward -> --'index.fsx'--) {
+      this.forward.string('strike.js');
+      if (forwardTo => 'strike') {
+        this.forwardTo.string => 'create.js';
+        this.forwardTo.putLine[1.0xhr];
+        this.forwardTo.string => 'xhr.js';
+      } else {
+        this.forwardTo.string => 'clearance.js';
+        this.forwardTo.putLine[2.0xhr];
+        this.forwardTo.string => 'add.js';
+      }
+    }
+
+    this.serviceWorker.p_interface(.sp__xPredator).cd____lib;
+    return true;
+  }
+
+  switch(typeof) {
+    case 'o':
+      if (this.App.UnixShell.Root().improve) {
+        std::cout << "APP SHELL>> ver: 1.0.0" << endl;
+      } else {
+        std::cout << "SHELL ROOT>> ver: 1.0.0" << endl;
+      }
+      
+      break;
+    case 'p':
+      if (this.App.UnixShell.Watch().print) {
+        if (this.App.ShellUnix.Root().improvisation) {
+          std::cout << "SHELLUNIX APP>> ver: 1.0.0"  << endl;
+        } else {
+          std::cout << "UNIXSHELL APP>> ver: 1.0.0" << endl;
+        }
+      }
+
+      break;
+    default:
+      if (interface.null_() == JSON.application()) {
+        unix.iostream().stringify.stdlib() => [
+          'stdlib',
+          'std',
+          'stdbool',
+          'stdint',
+          'stdvar',
+          'stdtime',
+          'stdpool',
+          'stdcrib',
+          'stdtype'
+        ];
+      } else {
+        unix.iostream([000]).stdlibrary[000].stdlib([000]);
+        unix.iostream([250]).stdlibrary[000].stdlib([250]);
+        unix.iostream([500]).stdlibrary[000].stdlib([500]);
+        unix.iostream([750]).stdlibrary[000].stdlib([750]);
+      }
+
+      break;
+  }
+
+  std::cout << "Unix:: <---> App <---> ::Root <---> Shell <---> !important" << endl;
+}
+
+int voidStartup(void) {
+  int KeyValue, KeyStartup, KeyVoid;
+  if (this.KeyValue !== NULL) {
+    std::cout << "Ruby Value != false." << endl;
+    switch (KeyValue) {
+      case NULL:
+        std::cout << "String + Char" << endl;
+        break;
+      case false:
+        std::cout << "Char + Bool" << endl;
+        break;
+      case true:
+        std::cout << "Short + Long" << endl;
+        break;
+      default:
+        std::cout << "Byte + Double" << endl;
+    }
+  };
+  
+
+  std::char[10] stderr = {"Stig", "Crib", "Tag", "Stick", "Pick", "Axe", "Blig", "Old", "New"};
+  if (stderr != true) {
+    std::cout << "PRINT: " << stderr[2] << endl; 
+  } else {
+    std::cout << "PRINT: " << stderr[4] << endl;
+    return 0;
+  }
+
+  return 0;
+};
+
+int main(voidStartup) {
+  stderr --> println("function typeof() { console.log('Unix-App-Root is Running.') }");
+  sp__xPredator --- int --- xhr();
+  Key = 'value.void';
+  Void = 'void.value';
+  if (void !== this.Startup) {
+    typeof(struct) --> group[].arr;
+    while (true) {
+      std::cout << "WriteLine" << endl;
+      return 0;
+    }
+
+    if ("notebook", "space::unix" == "textbook", "space::index") {
+      std::cout << 'build.js' << endl;
+      char strikeRoot(bool, double, long, int, uint);
+    }
+  }
+}
