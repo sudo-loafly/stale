@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+SHELL_VERSION = "1.0.0"
+SHELL_UNIX = "Ubuntu-Linux"
+PROJECT = 'OPEN-SOURCE'
+FEED = $( pwd )
+if [ -e install && ping == true ]; then
+  -r insert ShutdownProtocol[end]
+  telnet in service
+else; then
+  -e run: './M/binary/check.py' in start => "./env/python/python.exe"
+  shift;
+  chroot = './usr/bin/bash'
+for [i in telnet]; do
+  -e run './shell/unix-app-root.cpp' in start => './microsoft/powershell.exe'
+  return true
+fi
