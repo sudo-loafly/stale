@@ -272,8 +272,10 @@ int main(void) {
   return false;
 }
 
-class Webvine {
-  public static void
+class vine_soap {
+  public:
+    bool base = new Q_CHAR_ROOT();
+    char basic = new false_ROOT();
 }
 
 #endif
