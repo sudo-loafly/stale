@@ -63,3 +63,12 @@ if (t == client) {
     }
   }
 };
+
+namespace WORKER {
+  public static override byte pull_request = 83478291.idString;
+  public static override byte * int bool[] tu = {"tu", "ty", "req"};
+  private static var Omit = "Package::PKT";
+  for (Omit in Q_Types) {
+    const class function = ().content_html_css_js("alert(\"worker.cs -> worker.js\")");
+  }
+}
