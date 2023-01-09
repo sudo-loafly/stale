@@ -1,0 +1,17 @@
+#!/usr/bin/bash env
+#!/root/binaries/tar tokescript-env
+
+for [ function in {part} ]; do {
+  confront as cnf;
+  direct(sh)
+  dry.sh::root
+},
+
+stig as in print(echo); do
+  typename STIG_OPERATOR.RUNTIME={TRUE},
+  typename STRIPE_OPERATOR.RUNTIME={PACKAGE.TAR}
+stripeless in as print(echo "${typename_as_template(xin)}"); do
+  typename STRIPE_RANDOM.RUNTIME_VAR={TRUE},
+  typename STRIKE_CLASSROOT_MINT.RUNTIME={FALSE}
+
+esac or kill
