@@ -1,0 +1,13 @@
+#!/usr/bin/bash env
+CREP_T = 1.0.0
+SHIFT_DIRECT = true
+CENTRAL = Q_ROOT_NAMESPACE
+
+if [ panel -e install ]; then
+  sh( fix[ I.root-namespace ] )
+  shift;
+  for "%d" in "@root"
+  present(shell-unix)
+fi
+
+nitro --- esac[i_I_i_I_i]
