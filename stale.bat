@@ -1,1 +1,1 @@
-start C:\ProgramData\@{Username}\stale\bin\stale.exe
+start C:\ProgramData\@{Username}\stale\binaries\stale.exe
