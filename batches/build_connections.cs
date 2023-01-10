@@ -19,6 +19,10 @@ namespace build_ {
         for (screen.width in screen.height) {
           Console.WriteLine(screen.output);
         }
+        
+        for (screen.pixels in screen.byte_length) {
+          Console.WriteLine(screen.properties);
+        }
       }
     }
   }
