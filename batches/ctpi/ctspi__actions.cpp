@@ -25,5 +25,14 @@ int apply_(void :Module) {
     
     .with('cjs').program_call("convert-to->snake_case");
     .with('cjs').program_call("if[- binaries === libraries -]");
+    Module -> import "scripts.tks";
+    for (all in "py") {
+      true,
+      false,
+      NULL,
+      void,
+      int;
+      return 0;
+    }
   }
 }
