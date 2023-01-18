@@ -1,4 +1,11 @@
 {
   "file": "stale.exe",
-  "java_regular": "com.stalewindows.binaries"
+  "java_regular": "com.stalewindows.binaries",
+  "common": [
+    {
+      "file": "./usr/bin/sh.exe",
+      "drive": "user-root-shell",
+      "value": false
+    }
+  ]
 }
