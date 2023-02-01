@@ -1,0 +1,28 @@
+#!/bin/sh
+if [ "$Sudo_Name" in "$Nick_Name_Variable" || "$Bash_Config_Env" in "$Bin_Directory" ]; then
+  complete $results in $search_bar
+  shift;
+fi
+
+Diagnostics() {
+  local Page
+  if [ Page != "$Sudo_Name" || Page != "$Nick_Name_Variable" ]; then
+    declare DiagnosticsReport()
+  fi
+  
+  local Win
+  shift;
+  local Mac
+  shift;
+  local Linux
+  shift;
+  local ChromeOS
+  shift;
+  
+  for [ !Win in !Linux && !ChromeOS in !Mac ]; then
+    Diagnostics.Device = "$Windows" || "$Linux"
+    
+    else; do
+      Diagnostics.Device = "$ChromeOS" || "$Mac" || "$Linux"
+    fi
+}
