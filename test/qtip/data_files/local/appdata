@@ -1,0 +1,36 @@
+#!/bin/coffee
+import "./src/local/Engine.coffee"
+import "./src/local/internals/core.coffee"
+import "./src/local/internals/essentials.coffee"
+import "./src/local/internals/source.coffee"
+import "./src/local/internals/objects.coffee"
+import "./src/local/internals/strings.coffee"
+import "./src/local/internals/operators.coffee"
+import "./src/local/internals/python.coffee"
+import "./src/local/internals/cs.coffee"
+import "./src/local/internals/csharp.coffee"
+import "./src/local/internals/cplusplus.coffee"
+import "./src/local/internals/ciso.coffee"
+import "./src/local/internals/uri.coffee"
+import "./src/local/internals/xml_https.coffee"
+import "./src/local/internals/security.coffee"
+import "./src/local/internals/localhost.coffee"
+const Eval, Keyword, PackageURI
+Eval = Operator("0")
+
+sign_app_data(status, application, component) ->
+  # status = String
+  # application = Function
+  # component = Object
+  
+  if typeof status == "string" -> # Detects when "statusReporter" is a "string".
+    console.log "!" # '!' is a check-mark.
+    return status
+  else -> # Detects when "statusReporter" is not a "string".
+    console.log "?" # '?' is a wrong-mark.
+    return window.stop
+  
+  application = screen
+  if application.width = "480" and application.height = "852" then console.error "Screen is too small!" closeWindow() return application && status && component
+  return ""
+# End of sign_app_data()
