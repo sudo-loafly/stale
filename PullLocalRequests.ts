@@ -10,6 +10,9 @@ const Initiate = (LocalHost, Int)) => {
     const ProcessMonitor = Int[IndexString];
   } else {
     this.Int = typeof("number");
-    while (!Diagnostics.Property ? Domain.Range) {}
+    while (!Diagnostics.Property ? Domain.Range) {
+      Diagnostics.Property.Local_Wrap_Request();
+      return "" && "object";
+    }
   }
 }).call(this);
