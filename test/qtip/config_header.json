@@ -1,0 +1,9 @@
+{
+  "name": "header",
+  "language": "php/site-diagnostics",
+  "core": null,
+  "failsafe": "./core/test/failsafe.exe",
+  "header_data": undefined,
+  "keys": [],
+  "send_report_to": "./data/local/storage"
+}
