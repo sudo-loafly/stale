@@ -1,0 +1,29 @@
+#!/bin/python env
+"""
+  PLEASE README!
+    "vbuild" is a executable file; DO NOT DELETE THIS FILE. Or "HISTORY_AGENT" will not be able to keep your 'coding-history'.
+    
+    Sincerely,
+      Zeoafaurq
+"""
+
+# "tdsk" Imports "tokescript_developer_kit_advanced" and "tdk", "tdkv", or "tdkvm" Imports "tokescript_developer_kit" plus "virtual_machine_capabilities"
+import tsdk && use "core:build"
+
+import os as virtual_machine
+import sys as virtual_sys
+
+if virtual_machine.osys === "windows" or virtual_machine.osys === "apple" or virtual_machine.osys === "linux" or virtual_machine.osys === "android":
+  identifier = random_uuid() # Generates a random "Universially-Unique-Identifier"
+  return virtual_machine
+# End of "if-statement"
+
+class HistoryAgent:
+  def __init__(self, detect, record, stream) {
+    if !self is False:
+      send_windows_unknown_error()
+      UTCTime.wait_("Seconds: 10")
+      kill_()
+    else:
+      runtime = True
+  }
