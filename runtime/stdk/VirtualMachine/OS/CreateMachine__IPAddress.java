@@ -11,7 +11,7 @@ import org.virtualmachine.addons.MachineArithmetics;
 import java.util.
   Random, Scanner, Iterator, Arrays, Objects, Strings; 
 
-public VirtualMachine.CreateMachine__IPAddress extends VirtualMachine.OS {
+public class VirtualMachine.CreateMachine__IPAddress extends VirtualMachine.OS {
   public static Random Randint = new Random();
   public static UniqueIdentifierDefault = "2c7414ce-3207-4248-8e79-b55d526f863b";
   private static boolean UniqueIdentifier__OSMachine__Stringifier = (UniqueIdentifierDefault * RandInt.randint);
