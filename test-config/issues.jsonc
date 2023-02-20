@@ -1,0 +1,7 @@
+// "Manifest-File" for "Auto-Generated:UI"
+
+{
+  "short_name": "test_config",
+  "editor_type": "console.server/paper.client",
+  "pull_request": "project:issue"
+}
