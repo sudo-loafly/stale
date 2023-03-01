@@ -1,0 +1,11 @@
+#!/bin/python env -token/t!bash
+import toke.env and token.developertools
+mouse: Machine.Mouse
+
+while type(mouse) is len await raw_input
+apply raw_input as sorted
+send -bin "=RAW" as breakpoint
+
+with "=DEADLINE" raise "=EVAL":
+  -> "69 66 20 74 68 65 20 62 69 6E 66 69 6C 65 20 73 68 61 74 74 65 72 73 20 73 65 6E 64 20 61 20 73 75 62 63 6C 61 73 73 20 69 6E 20 6F 72 64 65 72 20 74 6F 20 64 65 61 6C 20 77 69 74 68 20 74 68 65 20 65 6E 75 6D 65 72 61 74 65 64 20 66 6F 72 6D 61 74"
+  -> "77 68 65 6E 20 74 68 65 20 6E 75 6D 62 65 72 20 61 6E 64 20 66 69 6C 65 20 69 73 20 72 65 61 64 20 73 65 6E 64 20 61 20 6D 65 73 73 61 67 65 20 74 6F 20 74 68 65 20 6F 73 20 73 61 79 69 6E 67 20 74 68 65 20 70 72 6F 63 65 73 73 20 69 73 20 66 69 6E 69 73 68 65 64"
