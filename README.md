@@ -1,5 +1,5 @@
 # The _Stale_ Programming Language
-Stale is a half/scripting and full machine code programming language. It's creation was inspired by languages like: Java, Haskell, & C++.
+_Stale_ is a programming language that combines aspects of both scripting and full machine code. Its creation was inspired by languages such as Java, Haskell, and C++.
 
 **Created using:**
 - Java
@@ -18,8 +18,10 @@ Stale is a half/scripting and full machine code programming language. It's creat
 - Clojure
 - Odin
 - Gem
+
 ## Learning the `Stale` Programming Language
-In order to use Stale, in a professional example. We first need to know the basics!
+To use Stale in a professional example, it's essential to grasp the basics!
+
 ```js
 (?main=go _class +++ ? === typeof(int::StorageByte)):
   class main_ln_string(){
