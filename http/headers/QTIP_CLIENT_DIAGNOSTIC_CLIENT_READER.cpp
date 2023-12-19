@@ -46,3 +46,23 @@ int include__report(int static_) {
     }
   }
 }
+
+int tip_response_headers(time_check, charge) {
+  this.function.epuller(this.charge.PullFocus);
+  try {
+    case "shift" + "ctrl":
+      this.toggleOpen = false;
+      this.toggleClose = true;
+    case "time_portion_response" == true:
+      if (this.time_status == "imported") {
+        set(this.key, false);
+        set(this.id, true);
+        set(this.ctrl, "optional");
+        return HeaderData;
+      }
+    default:
+      TDE.PreviewStatus.ShowDimensions = true;
+      TDE.PreviewStatus.ShowUsageDiagnostics = true;
+      TDE.DirectToggle.UsageOptimization = false;
+  }
+}
