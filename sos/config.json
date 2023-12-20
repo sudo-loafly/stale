@@ -1,0 +1,32 @@
+{
+  "name": "$HKEY_CURRENT_USER",
+  "id": "$GIFTED_KEY",
+  "virtual_machine": true,
+  "status": {
+    "has_gpu": "check",
+    "has_cpu": true,
+    "use_vram": "optional"
+    "default_allocated_ram": "4gb",
+    "game_engine": true,
+    "default_render_engine": "Vulkan",
+    "overclocking": "optional",
+    "game_settings": {
+      "allow_shader_cache": "optional",
+      "allow_engine_junk": false,
+      "mesh_rendering": true,
+      "video_quality": "vivid",
+      "vsync": "optional",
+      "allow_switch_render_api": true,
+      "allow_data_handling": "optional",
+      "data_storing": "long",
+      "game_engine": "TLGameEngine",
+    }
+  },
+
+  "crash_reports": true,
+  "inject": "$this.optional",
+  "virus_protection": true,
+  "core_analysis": false,
+  "override_bools": "optional",
+  "video_settings": "default"
+}
