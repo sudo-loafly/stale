@@ -29,3 +29,7 @@ def soscaller():
   prevent(event, system) # This safeguards the computer's BIOS against tampering, ensuring the main OS remains intact while SOS functions as a standalone application. Exercise caution; do not modify this code.
   usagedb(askpermission, allowmodify) # User permission is necessary to modify specific computer files for SOS functionality. Currently, this function is essential; refrain from altering the file properties.
   computeralgorithm(save, checkpoint, virusprotection, vmware, security, storage, ram, gpu, cpu, vram, performancesettings, npc) # Essential computer components for "SOS."
+
+TReader.InjectCode().this
+TRender.ThreeDimensions__.dasfile
+ToL.storeRenderCache.exitProtocol()
